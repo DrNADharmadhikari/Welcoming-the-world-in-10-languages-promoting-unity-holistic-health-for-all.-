@@ -64,8 +64,8 @@ Ce projet est dédié à la santé et au bien-être des personnes du monde entie
 
 This multilingual repository is part of the global mission by **Dr. N. A. Dharmadhikari Clinic** to spread scientific and holistic knowledge of health, wellbeing, and wellness across cultures and languages.
 
-**#UltimateHolisticHealth | #GlobalWellness | #DrNADharmadhikari
- | #Wellness Skyline**
+**#UltimateHolisticHealth | #GlobalWellness | #DrNADharmadhikari | 
+#Wellness Skyline**
 
 ---
 
